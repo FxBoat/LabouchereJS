@@ -8,9 +8,9 @@ WIN = 0;
 LOSE = 0;
 
 BET = 50; //Set bet per round
+TARGET=2000; //Set target 
+PERCENT_WIN = 0.82; //Set win percent
 
-PERCENT_WIN = 0.82;
-TARGET=2000;
 
 ARR_STEP = [];
 for(let i=0;i<=2000;i++){
