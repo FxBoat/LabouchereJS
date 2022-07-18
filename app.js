@@ -6,7 +6,9 @@ const labouchere = require('./Labouchere.js');
 SUM_NET = 0;
 WIN = 0;
 LOSE = 0;
-BET = 50;
+
+BET = 50; //Set bet per round
+
 PERCENT_WIN = 0.82;
 TARGET=2000;
 
